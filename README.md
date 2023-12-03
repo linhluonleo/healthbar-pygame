@@ -1,2 +1,2 @@
-# Healthbar pygame
+# Healthbar Pygame
 ## Healthbar 1
